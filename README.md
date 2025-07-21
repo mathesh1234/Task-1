@@ -18,4 +18,8 @@ Files.readAllBytes() and Files.write() for content modification
 Prerequisites
 Java Development Kit (JDK) 8 or above
 A terminal or IDE to compile and run the Java file
+
 Output
+<img width="1514" height="772" alt="Image" src="https://github.com/user-attachments/assets/e8704061-e9d5-4ead-836d-f60b69b1123c" />
+
+<img width="1513" height="752" alt="Image" src="https://github.com/user-attachments/assets/f6174346-4fed-403c-b10b-72128980b125" />
